@@ -1,0 +1,4 @@
+country,happiness,income,lifeexp,sanitation,water,urbanpopulation,unemployment,literacy,inequality,murder,energy,childmortality,fertility,hiv,foodsupply,population
+Vanuatu,5.212,3800.0,72.1,88.5,90.2,25.3,2.1,85.0,35.0,1.1,950.0,18.5,2.9,1500.0,2800.0,307000
+Belize,5.678,10200.0,74.3,91.0,93.5,45.1,4.2,88.0,42.3,2.3,1120.0,12.0,2.4,4800.0,2950.0,420000
+Maldives,6.254,15800.0,78.9,99.0,99.8,35.2,1.5,98.2,30.0,0.5,2100.0,4.8,2.1,3200.0,3020.0,540000
